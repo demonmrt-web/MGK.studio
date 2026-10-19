@@ -1,2 +1,0 @@
-# MGK.studio
-MGK.studio
